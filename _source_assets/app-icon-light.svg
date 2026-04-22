@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="App Icon – Light">
+  <defs>
+    <linearGradient id="bgLight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#EFF6FF"/>
+      <stop offset="100%" stop-color="#DBEAFE"/>
+    </linearGradient>
+    <linearGradient id="accentLight" x1="15%" y1="0%" x2="85%" y2="100%">
+      <stop offset="0%" stop-color="#14B8A6"/>
+      <stop offset="55%" stop-color="#0d9488"/>
+      <stop offset="100%" stop-color="#0d9488"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="112" fill="url(#bgLight)"/>
+
+  <!-- W mark -->
+  <path d="M139 140 L201 372 L256 234 L311 372 L373 140" fill="none" stroke="#0F172A" stroke-width="37" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M190 131 H322" stroke="#14B8A6" stroke-width="17" stroke-linecap="round"/>
+  <circle cx="256" cy="106" r="28" fill="#14B8A6"/>
+</svg>
